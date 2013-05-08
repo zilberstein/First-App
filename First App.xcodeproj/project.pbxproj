@@ -24,6 +24,7 @@
 		CABB9E92173AE45100E39DA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CABB9E6A173AE45000E39DA7 /* Foundation.framework */; };
 		CABB9E9A173AE45100E39DA7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CABB9E98173AE45100E39DA7 /* InfoPlist.strings */; };
 		CABB9E9D173AE45100E39DA7 /* First_AppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CABB9E9C173AE45100E39DA7 /* First_AppTests.m */; };
+		CABB9EA7173AE66500E39DA7 /* FAicon_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = CABB9EA6173AE66500E39DA7 /* FAicon_retina.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		CABB9E99173AE45100E39DA7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CABB9E9B173AE45100E39DA7 /* First_AppTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = First_AppTests.h; sourceTree = "<group>"; };
 		CABB9E9C173AE45100E39DA7 /* First_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = First_AppTests.m; sourceTree = "<group>"; };
+		CABB9EA6173AE66500E39DA7 /* FAicon_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FAicon_retina.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 		CABB9E5C173AE45000E39DA7 = {
 			isa = PBXGroup;
 			children = (
+				CABB9EA6173AE66500E39DA7 /* FAicon_retina.png */,
 				CABB9E6E173AE45100E39DA7 /* First App */,
 				CABB9E95173AE45100E39DA7 /* First AppTests */,
 				CABB9E67173AE45000E39DA7 /* Frameworks */,
@@ -240,6 +243,7 @@
 				CABB9E7F173AE45100E39DA7 /* Default-568h@2x.png in Resources */,
 				CABB9E82173AE45100E39DA7 /* MainStoryboard_iPhone.storyboard in Resources */,
 				CABB9E85173AE45100E39DA7 /* MainStoryboard_iPad.storyboard in Resources */,
+				CABB9EA7173AE66500E39DA7 /* FAicon_retina.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
